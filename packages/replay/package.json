@@ -1,0 +1,9 @@
+{
+  "name": "@cosmic-arc/replay",
+  "version": "0.1.0",
+  "main": "src/replayRunner.ts",
+  "license": "MIT",
+  "dependencies": {
+    "@cosmic-arc/schema": "*"
+  }
+}

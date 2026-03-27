@@ -1,0 +1,7 @@
+{
+  "name": "@cosmic-arc/graph",
+  "version": "0.1.0",
+  "main": "src/correlationGraphService.ts",
+  "license": "MIT",
+  "dependencies": {}
+}

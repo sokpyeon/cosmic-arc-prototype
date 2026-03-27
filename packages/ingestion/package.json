@@ -1,0 +1,10 @@
+{
+  "name": "@cosmic-arc/ingestion",
+  "version": "0.1.0",
+  "main": "src/ingestionPipeline.ts",
+  "license": "MIT",
+  "dependencies": {
+    "@cosmic-arc/schema": "*",
+    "@cosmic-arc/adapters": "*"
+  }
+}

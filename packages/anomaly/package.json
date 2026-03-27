@@ -1,0 +1,9 @@
+{
+  "name": "@cosmic-arc/anomaly",
+  "version": "0.1.0",
+  "main": "src/scoring.ts",
+  "license": "MIT",
+  "dependencies": {
+    "@cosmic-arc/schema": "*"
+  }
+}

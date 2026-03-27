@@ -1,0 +1,9 @@
+{
+  "name": "@cosmic-arc/schema",
+  "version": "0.1.0",
+  "main": "src/eventEnvelope.ts",
+  "license": "MIT",
+  "dependencies": {
+    "zod": "^3.22.4"
+  }
+}

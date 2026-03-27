@@ -1,0 +1,9 @@
+{
+  "name": "@cosmic-arc/timeline",
+  "version": "0.1.0",
+  "main": "src/timelineEngine.ts",
+  "license": "MIT",
+  "dependencies": {
+    "@cosmic-arc/schema": "*"
+  }
+}

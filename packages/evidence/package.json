@@ -1,0 +1,7 @@
+{
+  "name": "@cosmic-arc/evidence",
+  "version": "0.1.0",
+  "main": "src/evidencePack.ts",
+  "license": "MIT",
+  "dependencies": {}
+}
